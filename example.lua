@@ -1,0 +1,9 @@
+local ESPLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/ESP-Library/refs/heads/main/library.lua"))()
+ESPLib.Toggle = true --//toggle the esp
+ESPLib.Distance = true --// show distance
+ESPLib.Name = true --//show name
+ESPLib.Box = true --//show box
+ESPLib.Tool = true --//show current tool name player equip
+ESPLib.HealthBar = true --//show health bar 
+ESPLib.Skeleton = false --//just a skeleton
+ESPLib.Tracer = true --//tracer
